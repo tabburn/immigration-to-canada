@@ -1,4 +1,4 @@
-![toronto skyline](https://github.com/tabburn/Portfolio/blob/main/Immigration%20to%20Canada%20EDA/resources/canada_hero.jpg)
+![toronto skyline](https://github.com/tabburn/immigration-to-canada/blob/main/resources/canada_hero.jpg)
 
 # Immigration to Canada EDA & Data Visualization
 This analysis uses a [dataset](https://github.com/tabburn/Portfolio/blob/main/Immigration%20to%20Canada%20EDA/resources/Canada.xlsx) that records the inflow of immigrants into Canada from all over the world from 1980 to 2013 and is used to identify patterns and trends. A [JSON file](https://github.com/tabburn/Portfolio/blob/main/Immigration%20to%20Canada%20EDA/resources/world_countries.json) is used at the end of the analysis in conjuction with Folium to produce a choropleth map.
