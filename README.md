@@ -6,7 +6,7 @@ This analysis uses a [dataset](https://github.com/tabburn/Portfolio/blob/main/Im
 > Folium maps do not render on GitHub natively. You can get a full dynamic output of the data analysis, including the choropleth map seen at the end of the analysis,  when the .ipynb file is viewed through nb.viewer.org linked [here](https://nbviewer.org/github/tabburn/immigration-to-canada/blob/main/data-analysis-and-viz.ipynb).
 
 ## Table of Contents
-[Immigration to Canada](#Immigration-to-Canada)\
+[Title](#Immigration-to-Canada)\
 [Table of Contents](#Table-of-Contents)\
 [Summary](#Summary)\
 [Methods Used](#Methods-Used)\
